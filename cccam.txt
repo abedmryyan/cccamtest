@@ -16,3 +16,11 @@ C: grandserver1.pw 1000 11grandcccam0500 228212235 # v2.0.11-2892
 C: 178.238.224.107 14000 haha hhhh # v2.0.11-2892
 C: 178.238.224.107 18000 aabb bbaa # v2.0.11-2892
 C: demo.mbpot.com 20000 PRUEBA-GRATUITA13 mbpot.com # v2.0.11-2892
+C: 144.76.223.38 22600 W93M2T V6q7TN # v2.1.4-2892
+C: azcccam.cc 15014 843036 984896 # v2.0.11-2892
+C: server55.justcccam.info 22308 I459 Jazair08201 # v2.0.11-2892
+C: iexufoh3.cserver.tv 1003 00 00 # v2.1.1-2971
+C: monika.cs.mooo.com 19000 umcsds 25877852 # v2.0.11-2892
+C: s7hexacam.nodns.me 31325 13hexFFS gImyqMQyuy # v2.0.11-2892
+C: premierserver1.pw 1000 royalcccam1002 12225566 # v2.0.11-2892
+C: trcam3.tjurk.com 32290 L12280 000934074103 # v2.0.11-2892
