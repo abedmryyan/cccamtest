@@ -19,3 +19,8 @@ C: monika.cs.mooo.com 19000 umcsds 25877852 # v2.0.11-2892
 C: premierserver1.pw 1000 royalcccam1002 12225566 # v2.0.11-2892
 C: 144.76.223.38 22600 W93M2T V6q7TN # v2.1.4-2892
 C: iexufoh3.cserver.tv 1003 00 00 # v2.1.1-2971
+C: 178.238.224.107 14000 aabb bbaa # v2.0.11-2892
+C: 178.238.224.107 18000 haha hhhh # v2.0.11-2892
+C: 178.238.224.107 18000 tvtv tvtv # v2.0.11-2892
+C: 140e.ddns.net 40000 ntv140e test # v2.1.2-3094
+C: de139.cserver.tv 1003 ddd ddd # v2.1.1-2971
