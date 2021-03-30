@@ -24,3 +24,7 @@ C: 178.238.224.107 18000 haha hhhh # v2.0.11-2892
 C: 178.238.224.107 18000 tvtv tvtv # v2.0.11-2892
 C: 140e.ddns.net 40000 ntv140e test # v2.1.2-3094
 C: de139.cserver.tv 1003 ddd ddd # v2.1.1-2971
+C: 178.238.224.107 18000 haha hhhh # v2.0.11-2892
+C: de139.cserver.tv 1003 ddd ddd # v2.1.1-2971
+C: 140e.ddns.net 40000 ntv140e test # v2.1.2-3094
+C: 1.tvsnake.com 22400 j3WDmy Fj9JbQ # v2.1.4-2892
