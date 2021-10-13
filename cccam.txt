@@ -23,3 +23,14 @@ C: 62.77.155.147 450 504614 xy0y30 # v2.0.11-2892
 C: 62.77.155.147 350 504614 xy0y30 # v2.0.11-2892
 C: sat06.xyz 20201 Padeiro jose10102020 # v2.0.11-2892
 C: 51.89.40.86 1003 i7ux7i0v 7pb4v3gw # v2.1.1-2971
+C: irdeto.movieboxnl.info 12020 lowie lowie # v2.0.11-2892
+C: jeje.resident.ovh 33333 fjmallen fjmallenpass # v2.0.11-2892
+C: 176.31.54.42 8009 piek nahoj # v2.0.11-2892
+C: demo.mbpot.com 20000 SOPORTE-24H17 mbpot.com # v2.0.11-2892
+C: t.absee66.com 15500 t30 t30 # v2.0.11-2892
+C: demo.mbpot.com 20000 SOPORTE-24H12 mbpot.com # v2.0.11-2892
+C: demo.mbpot.com 20000 ENVIO-RAPIDO2 mbpot.com # v2.0.11-2892
+C: 51.89.40.86 1003 mhisw9nb xmka1hfa # v2.1.1-2971
+C: demo.mbpot.com 20000 ENVIO-RAPIDO7 mbpot.com # v2.0.11-2892
+C: demo.mbpot.com 20000 IPTV62 mbpot.com # v2.0.11-2892
+C: 178.238.224.107 18000 aabb aabb # v2.0.11-2892
