@@ -18,7 +18,7 @@ C: dd996.cserver.tv 1003 i7ux7i0v 7pb4v3gw # v2.1.1-2971
 C: remote.dieconsult.at 33344 markus DidPvM! # v2.3.0-3367
 C: egygold.in 51001 cyk2906 italyn
 C: egygold.co 51007 xhx1100 34250
-N: s15.torbrand.tv 714 zvezda0777 7777777 0102030405060708091011121314 
+N: s15.torbrand.tv 714 zvezda0777 7777777 01 02 03 04 05 06 07 08 09 10 11 12 13 14  
 C: mhiptv.ddns.net 12000 mhcc201 mhiptv.org
 C: dd491.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru943.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
