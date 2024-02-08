@@ -8,5 +8,4 @@ C: ru256.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru101.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: dd996.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru682.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: egygold.com 51004 12hkcam5781 134570
-C: egygold.net 51006 12hkcam5781 134570
+C: egygold.net 51007 12hkcam5781 134570
