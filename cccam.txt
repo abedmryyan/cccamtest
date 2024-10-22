@@ -19,3 +19,5 @@ C: cccam-cs.camdvr.org 13000 OCSSS7 www.cccam-cs.com # v2.1.1-2971
 N: oscam.ly 74084 ccxx700 ccxx700 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
 C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
 C: egygold.net 17702 egyxk8443 7284cvem
+C: x11.kcccam.me 65000 13306380 36837481 # v2.0.11-2892
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
