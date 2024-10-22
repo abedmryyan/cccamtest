@@ -16,7 +16,7 @@ C: 78.129.240.183 1003 pi5ksru8 gu3yroqm # v2.1.1-2971
 C: 78.129.240.183 1003 947gowur efxnho0q # v2.1.1-2971
 C: 151.115.73.226 12001 west bestpsw # v2.3.0-3367
 C: cccam-cs.camdvr.org 13000 OCSSS7 www.cccam-cs.com # v2.1.1-2971
-N: oscam.ly 74084 ccxx700 ccxx700 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: oscam.ly 74084 ccxx700 ccxx700 01 02 03 04 05 06 07 08 09 10 11 12 13 14
 C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
 C: egygold.net 17702 egyxk8443 7284cvem
 C: x11.kcccam.me 65000 13306380 36837481 # v2.0.11-2892
