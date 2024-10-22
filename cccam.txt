@@ -1,11 +1,20 @@
-C: 51.91.6.74 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: 78.129.240.183 1003 mtenmmru i5bu2w6u # v2.1.1-2971
-C: 51.89.40.86 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: de139.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: ru943.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: dd491.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru256.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru101.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: dd996.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru682.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: egygold.net 51007 12hkcam5781 134570
+C: s2-cas.ddns.net 777 jubad 1234 # v2.0.00-1892
+C: 194.163.145.185 777 jubad 1234 # v2.0.00-1892
+N: 185.129.103.22 6001 652866877 33454953 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200
+C: 194.163.153.145 13000 OCSSS7 www.cccam-cs.com # v2.1.1-2971
+C: s1.cccambtc.com 15000 x7pol www.cccambtc.com # v2.0.11-2892
+C: 78.129.240.183 1003 mhisw9nb xmka1hfa # v2.1.1-2971
+C: dd996.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
+C: ru101.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
+C: 109.169.71.6 1003 947gowur efxnho0q # v2.1.1-2971
+C: 151.115.73.226 12001 paparica cash # v2.3.0-3367
+C: 78.129.240.183 1003 pi5ksru8 gu3yroqm # v2.1.1-2971
+C: 78.129.240.183 1003 947gowur efxnho0q # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-3367
+C: cccam-cs.camdvr.org 13000 OCSSS7 www.cccam-cs.com # v2.1.1-2971
+N: oscam.ly 74084 ccxx700 ccxx700 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
